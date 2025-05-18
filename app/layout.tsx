@@ -6,7 +6,6 @@ import { ThemeProvider } from "@/components/theme-provider"
 export const metadata: Metadata = {
   title: "Digital Card Creator | منصة تصميم البطاقات الرقمية",
   description: "Create custom digital cards easily | قم بإنشاء بطاقات رقمية مخصصة بسهولة",
-  generator: 'v0.dev'
 }
 
 export default function RootLayout({
